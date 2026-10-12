@@ -81,21 +81,7 @@ If you don't want it to be rooted, just flash super.img after flash the stock fi
 Two equivalent packages — pick whichever matches your tooling.
 
 ### Option A — RKDevTool (Windows, one click)
-
-`rkdevtool/` — **`update.img`**, split into parts because GitHub caps release assets
-at 2 GiB.
-
-1. Rejoin the parts:
-
-   ```powershell
-   # Windows
-   cmd /c copy /b update.img.001+update.img.002 update.img
-   ```
-   ```bash
-   # Linux / macOS
-   cat update.img.001 update.img.002 > update.img
-   ```
-
+1. Download from release page
 2. Open **RKDevTool**, go to the **Upgrade Firmware** tab
 3. Click **Firmware** and select `update.img`
 4. Put the box into **Maskrom mode**: with the box unplugged, hold the recessed reset
