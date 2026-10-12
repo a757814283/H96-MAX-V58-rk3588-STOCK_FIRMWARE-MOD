@@ -116,4 +116,4 @@ Relate to original tutorial.
 3. https://github.com/Scrumpper/H96-MAX-V58-rk3588-Custom-Firmware-Suite
 
 ## Why this Firmware?
-The ui in stock firmware soooooooo ugly!
+The ui in stock firmware is soooooooo ugly!
