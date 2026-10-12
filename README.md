@@ -114,7 +114,7 @@ Relate to original tutorial.
 ## Why this Firmware?
 The ui in stock firmware soooooooo ugly!
 
-
+---
 
 # ORIGINAL README:
 
