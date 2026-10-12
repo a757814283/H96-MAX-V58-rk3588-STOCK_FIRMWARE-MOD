@@ -114,8 +114,11 @@ Relate to original tutorial.
 ## Why this Firmware?
 The ui in stock firmware soooooooo ugly!
 
-------------------------------------------------------------------------------------
-# Scrumpper's H96 Max V58 Firmware Suite
+
+
+# ORIGINAL README:
+
+## Scrumpper's H96 Max V58 Firmware Suite
 
 One-stop installer for custom firmware on **H96 Max V58** (Rockchip RK3588) TV box.
 Run one script, pick build, flash it.
