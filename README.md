@@ -70,6 +70,10 @@ https://github.com/khurramrizvi/atv11_bootanimation
 > It lives inside `boot.img`'s Rockchip resource section and is protected by a
 > U-Boot image hash that we could not reproduce, so it is left as stock.
 
+### 6. boot.img patched by magisk(rooted)
+
+If you don't want it to be rooted, just flash super.img after flash the stock firmware by using rkdeveloptool.
+
 ---
 
 ## Download & flash
