@@ -111,7 +111,8 @@ Relate to original tutorial.
 2. https://github.com/khurramrizvi/atv11_bootanimation
 3. https://github.com/Scrumpper/H96-MAX-V58-rk3588-Custom-Firmware-Suite
 
-
+## Why this Firmware?
+The ui in stock firmware soooooooo ugly!
 
 ------------------------------------------------------------------------------------
 # Scrumpper's H96 Max V58 Firmware Suite
